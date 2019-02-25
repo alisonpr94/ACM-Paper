@@ -1,0 +1,14 @@
+taskB_fscore_macro: 0.8096971180728189
+taskB_emr: 0.706
+taskB_fscore_HS: 0.801510143236762
+taskB_precision_HS: 0.801510143236762
+taskB_recall_HS: 0.801510143236762
+taskB_accuracy_HS: 0.804
+taskB_fscore_TR: 0.832572298325723
+taskB_precision_TR: 0.8357747229108192
+taskB_recall_TR: 0.8295630492047215
+taskB_accuracy_TR: 0.868
+taskB_fscore_AG: 0.7950089126559714
+taskB_precision_AG: 0.8006678281068524
+taskB_recall_AG: 0.7905443322109988
+taskB_accuracy_AG: 0.816
